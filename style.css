@@ -1,0 +1,57 @@
+body{
+  background-image: url('img/pokedex.png');
+  background-repeat: no-repeat;
+}
+h1{
+  text-indent: 120px;
+  color: azure;
+  text-transform: capitalize;
+}
+
+h2{
+  position: absolute;
+  top: 80px;
+  left: 80px;
+}
+
+p{
+  text-transform: uppercase;
+}
+
+img {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  width: 150px;
+}
+
+input{
+  position: absolute;
+  top: 380px;
+  left: 90px;
+  text-align: center;
+}
+
+button{
+  position: absolute;
+  top: 410px;
+  left: 120px;
+}
+
+.tipo{
+  position: absolute;
+  top: 70px;
+  left: 440px;
+}
+
+.skill{
+  position: absolute;
+  top: 70px;
+  left: 550px;
+}
+
+.status{
+  position: absolute;
+  top: 150px;
+  left: 440px;
+}
